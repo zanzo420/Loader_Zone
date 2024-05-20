@@ -4,8 +4,8 @@
 
 ### Features
 | Feature              | Supported |
-|----------------------|-----------|
-| High-DPS Rotation    | ✔️        |
+|----------------------|:-----------:|
+| High-Performance Rotation    | ✔️        |
 | Cooldowns            | ✔️        |
 | Interrupts           | ✔️        |
 | Buffs and Debuffs    | ✔️        |

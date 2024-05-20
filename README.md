@@ -7,6 +7,8 @@
 **Welcome**<br>
 We're a dedicated team of World of Warcraft enthusiasts committed to delivering optimized combat rotations for every **class**.<br>
 Our mission is to enhance your gaming experience by providing effective and user-friendly rotations.<br>
+These tools are mainly developed for a progression server of a famous pserver-host.<br>
+We will go through all 3 phases: Classic, TBC and Wrath!
 
 > [!NOTE]
 >

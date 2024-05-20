@@ -44,6 +44,10 @@ Our mission is to enhance your gaming experience by providing effective and user
 | Arms                |     🔴      |   ❌    |   ❌    |  
 | Fury                |     🟡      |   ✅    |   ❌    |
 | Protection          |     🟡      |   ✅    |   ❌    |
+>- [Fury Changelog](https://github.com/FriendsWithCode/Loader_Zone/blob/main/Changelog_Fury.md)
+>- [Protection Changelog](https://github.com/FriendsWithCode/Loader_Zone/blob/main/Changelog_Prot.md)
+
+---
 
 ### Rogue
 | **Spec** | *Status*   | *PVE*  | *PVP*  |
@@ -51,6 +55,10 @@ Our mission is to enhance your gaming experience by providing effective and user
 | Assassination       |     🟡      |   ✅    |   ❌    |  
 | Combat              |     🟡      |   ✅    |   ❌    |
 | Subtlety            |     🔴      |   ❌    |   ❌    |
+>- [Assassination Changelog](https://github.com/FriendsWithCode/Loader_Zone/blob/main/Changelog_Assassination.md)
+>- [Combat Changelog](https://github.com/FriendsWithCode/Loader_Zone/blob/main/Changelog_Combat.md)
+
+---
 
 ### Druid
 | **Spec** | *Status*   | *PVE*  | *PVP*  |

@@ -18,7 +18,7 @@ We will go through all 3 phases: Classic, TBC and Wrath!
 > If folder not exist, make own.
 
 > [!IMPORTANT] 
-> [Download](https://github.com/FriendsWithCode/Loader_Zone/releases/download/Latest/1.2.0_Release.zip)
+> [Download](https://github.com/FriendsWithCode/Loader_Zone/releases/download/Latest/1.2.5_Release.zip)
 >
 > Our Discord Server: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jgGqAuQjrZ)
 >

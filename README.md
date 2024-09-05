@@ -24,53 +24,6 @@ We will go through all 3 phases: Classic, TBC and Wrath!
 >
 
 ---
-
-## Current Status
-| **Class**   | *Status*   | *PVE*  | *PVP*  | *Classic* | *TBC* | *WOTLK* |
-|-------------|:----------:|:------:|:------:|:---------:|:-----:|:-------:|
-| Druid       |     🟡      |   ✅   |   ❌   |     ✅    |   ❌   |    ❌    |
-| Hunter      |     🔴      |   ❌   |   ❌   |     ❌    |   ❌   |    ❌    |
-| Mage        |     🔴      |   ❌   |   ❌   |     ❌    |   ❌   |    ❌    |
-| Paladin     |     🔴      |   ❌   |   ❌   |     ❌    |   ❌   |    ❌    |
-| Priest      |     🔴      |   ❌   |   ❌   |     ❌    |   ❌   |    ❌    |
-| Rogue       |     🟡      |   ✅   |   ❌   |     ✅    |   ❌   |    ❌    |
-| Shaman      |     🔴      |   ❌   |   ❌   |     ❌    |   ❌   |    ❌    |
-| Warrior     |     🟡      |   ✅   |   ❌   |     ✅    |   ❌   |    ❌    |
-| Warlock     |     🔴      |   ❌   |   ❌   |     ❌    |   ❌   |    ❌    |
-
----
-
-### Warrior
-| **Spec** | *Status*   | *PVE*  | *PVP*  |
-|---------------------|:----------:|:------:|:------:|
-| Arms                |     🔴      |   ❌    |   ❌    |  
-| Fury                |     🟡      |   ✅    |   ❌    |
-| Protection          |     🟡      |   ✅    |   ❌    |
->- [Fury Changelog](https://github.com/FriendsWithCode/Loader_Zone/blob/main/Changelog_Fury.md)
->- [Protection Changelog](https://github.com/FriendsWithCode/Loader_Zone/blob/main/Changelog_Prot.md)
-
----
-
-### Rogue
-| **Spec** | *Status*   | *PVE*  | *PVP*  |
-|---------------------|:----------:|:------:|:------:|
-| Assassination       |     🟡      |   ✅    |   ❌    |  
-| Combat              |     🟡      |   ✅    |   ❌    |
-| Subtlety            |     🔴      |   ❌    |   ❌    |
->- [Assassination Changelog](https://github.com/FriendsWithCode/Loader_Zone/blob/main/Changelog_Assassination.md)
->- [Combat Changelog](https://github.com/FriendsWithCode/Loader_Zone/blob/main/Changelog_Combat.md)
-
----
-
-### Druid
-| **Spec** | *Status*   | *PVE*  | *PVP*  |
-|---------------------|:----------:|:------:|:------:|
-| Balance             |     🔴      |   ❌    |   ❌    |  
-| Feral (Tank)        |     🟡      |   ✅    |   ❌    |
-| Feral (DPS)         |     🟡      |   ✅    |   ❌    |
-| Restoration         |     🔴      |   ❌    |   ❌    |
-
----
-
+ 
 We hope you enjoy our products and stay healthy!<br>
 **Team Harmony**
